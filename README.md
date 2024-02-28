@@ -15,13 +15,13 @@ Em relação as bibliotecas, as utilizadas para cada sensor foram da propria fab
 ### Conexão dos Sensores
 Para os sensores que possuem pinos SLC e SDA, basta conectá-los aos pinos correspondentes do Arduino. A exceção é o sensor GY906, que possui pinos diferentes e é ligado a 3.3V, conforme descrito no código. Para o GY906, basta conectar o SDA e SCL no Arduino nos seguintes pinos: GPIO 3 e GPIO 4, respectivamente.
 
-#### GY906 - Arduino
+#### GY906: Arduino
 - VCC: 3.3V
 - GND: GND
 - SDA: GPIO3
 - SCL: GPIO4
 
-#### DEMAIS - Arduino
+#### DEMAIS: Arduino
 - VCC: 5V
 - GND: GND
 - SDA: SDA
