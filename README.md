@@ -1,7 +1,8 @@
 # Configuração dos Sensores com Arduino Uno
 
 ## Sensores Utilizados
-Os seguintes sensores foram testados utilizando o Arduino Uno. Para testa-los basta acessar o codigo na pasta com nome de cada um. Todos os codigos utilizados são exemplos das propria fabricante com seus respectivos direitos/licença sobre os códigos.
+Os seguintes sensores foram testados utilizando o Arduino Uno. \
+Para utiliza-los basta acessar o codigo na pasta com nome do modelo de cada um. Todos os codigos utilizados são exemplos das proprias fabricantes com seus respectivos direitos/licença sobre os códigos.
 - BME680
 - GY906
 - INA226
